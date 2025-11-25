@@ -11,3 +11,5 @@ Update 8: implemented localstorage
 > Update: updated dependencies to latest stable versions (2025-11-02)
 
 > Update: fixed bug where UI would flicker on resize (2025-11-17)
+
+> Update: minor css tweaks for newer browsers (2025-11-25)
