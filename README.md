@@ -13,3 +13,5 @@ Update 8: implemented localstorage
 > Update: fixed bug where UI would flicker on resize (2025-11-17)
 
 > Update: minor css tweaks for newer browsers (2025-11-25)
+
+> Update: hotfix: resolved issue with localstorage sync (2025-12-09)
